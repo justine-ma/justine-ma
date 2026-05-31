@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Justine
 
-NYU student pursuing a 5-year BS-MS track the MS in Financial Engineering and BS in Mathematics. 
+NYU student in a 5-year dual-degree BS–MS program, earning a BS in Mathematics and an MS in Financial Engineering.
 
 ## Current Projects
 
