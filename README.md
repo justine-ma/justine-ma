@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **justine-ma/justine-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Justine
+
+NYU student pursuing a 5-year BS-MS track the MS in Financial Engineering and BS in Mathematics. 
+
+## Current Projects
+
+- Volatility Forecasting Research
+- Option Pricing Model Comparison
