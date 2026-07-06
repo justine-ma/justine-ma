@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 # Hi, I'm Justine
 
 NYU student in a 5-year dual-degree BS–MS program, earning a BS in Mathematics and an MS in Financial Engineering.
-
-## Current Projects
-
-- Volatility Forecasting Research
-- Option Pricing Model Comparison
